@@ -15,4 +15,45 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+h1 {
+    margin-bottom: 50px;
+
+}
+
+table, th.id, td {
+    border: 2px solid white;
+    border-left: 50px;    
+    margin: 10px 10px;
+    text-align: left;
+    border-spacing: 2px;
+    border-style: hidden;
+    
+}
+
+table {
+    font-size: 30px;
+}
+
+th {
+    border-bottom-width: 15px;
+    
+}
+
+#groen {
+    font-weight: 400;
+    color: green;
+}
+
+#rood {
+    font-weight: 400;
+    color: firebrick;
+}
+
+td {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+
 /* Voeg jouw css hieraan toe */
